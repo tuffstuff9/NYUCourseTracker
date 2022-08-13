@@ -7,6 +7,7 @@ This course tracker utilises puppeteer to scrape the NYU public course search vi
 ## ⚡️ Usage Guide
 
 Clone the repo or download a zip and open it up in your desired IDE. Then, run the following command in your root to install all dependencies.
+
 <img src="https://user-images.githubusercontent.com/57072903/184505707-75b8db1a-4dc6-4033-80af-61d55bb0194c.png" width="300px">
 
 
