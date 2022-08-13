@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0",
+    "nodemon": "^2.0.19",
+    "puppeteer": "^16.1.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1"
+  }
+}
